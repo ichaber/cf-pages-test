@@ -1,6 +1,6 @@
 {
   "version": "3.0.7",
-  "name": "gatsby-starter-lumen",
+  "name": "cf-pages-test",
   "description": "A minimal, lightweight and mobile-first starter for creating blazing-fast static blogs",
   "main": "n/a",
   "scripts": {
@@ -16,7 +16,7 @@
     "test:coverage": "jest --coverage --config ./jest/jest-config.js",
     "test:watch": "jest --watch --config ./jest/jest-config.js"
   },
-  "repository": "https://github.com/alxshelepenok/gatsby-starter-lumen",
+  "repository": "https://github.com/ichaber/cf-pages-test",
   "author": "Alexander Shelepenok <alxshelepenok@gmail.com>",
   "license": "MIT",
   "keywords": [
@@ -43,7 +43,7 @@
     "bluebird": "^3.7.2",
     "classnames": "^2.2.6",
     "codecov": "^3.8.1",
-    "gatsby": "^2.31.1",
+    "gatsby": "^2.32.2",
     "gatsby-link": "^2.10.0",
     "gatsby-plugin-catch-links": "^2.9.0",
     "gatsby-plugin-feed": "^2.12.0",
